@@ -1,4 +1,4 @@
-# Desafio Prático: Base Analítica de E-commerce 🚀
+# Desafio Prático 🚀
 
 Este repositório contém a resolução do desafio prático de estruturação e tratamento de dados utilizando o **Google BigQuery** e **SQL**.
 
