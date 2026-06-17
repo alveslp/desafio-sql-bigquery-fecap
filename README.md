@@ -12,4 +12,4 @@ O script SQL foi desenvolvido para realizar a limpeza e padronização da tabela
 
 O código final está disponível no arquivo [`tratamento_dados.sql`](./tratamento_dados.sql).
 
-Desafio 17/06/26
+Desafio 17/06/2026
